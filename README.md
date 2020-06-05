@@ -2,6 +2,15 @@
 
 A collection of various things that I've modelled or designed. Some can be printed with 3D printers or technology, some are just for educational purposes. All models are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
+
+# C-MORE Railway Cover (Fullsize) 
+
+  This is the model for a full size cover of the popular competition C-MORE Railway and othe fullsize C-MORE red dot sights. I've found that it works best when printed in TPU flexible palstic. 
+  
+# Beretta A400 Series Shell Catcher 
+
+  This is the model for a a clip on style shell catcher for the Beretta A400 series shotguns. This is used when shooting singles trap primarily as it catches the shell as its ejected so as not to send it into the station next to you. This is based on the T&S style (now seemingly discontinued) that is very easily removable. So far the best print settings have been done with standard PLA.
+  
 # Ruger Mark IV 22/45 
 
 ##   1) Bolt Ears
